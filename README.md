@@ -38,6 +38,10 @@ chmod +x WA_CRASHER.py
 ```
 ```bash
 python3 WA_CRASHER.py
-```
+```n
+
+https://github.com/mohsin091143/KASHMIRI_WA_CRASH/assets/101172197/2e9e89e4-0cba-4335-84d9-5ec4a7550230
+
+
 
 ##### <p align="center">```And Thanks for choosing this tool Support Us !```
